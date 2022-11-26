@@ -1,0 +1,16 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hcen
+{
+    display: flex;
+    justify-content: center;
+}
+.vcen
+{
+    display: flex;
+    align-items: center;
+}
